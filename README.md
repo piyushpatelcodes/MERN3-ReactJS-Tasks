@@ -1,6 +1,8 @@
 # MERN3-ReactJS-Tasks
 Here are all MERN3 projects Depolyment links and Repo links :
 
+➡️➡️➡️ALL TASKS : https://piyushpatel-mern3-reactjs-all-tasks.vercel.app/
+
 ••• MERN3 ReactJS task 1 -     
 ➡️ Deployment Link - https://mern3-react-js-task1-piyush-patel.vercel.app/ 
 
